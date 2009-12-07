@@ -1,4 +1,11 @@
-gedit, completando código Python.
 
+Install
 
+    git clone git://github.com/nsigustavo/pycodecompletation.git
+    cd pycodecompletation
+    sudo python setup.py install
+
+    git clone git://github.com/nsigustavo/autocompletepythongeditplugin.git
+    cd autocompletepythongeditplugin
+    mv autocompletepython*  ~/.gnome2/gedit/plugins/
 
