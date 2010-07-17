@@ -36,3 +36,16 @@ In Preferences dialog go to Plugins tab
 Find 'Auto complete python' in plugin list and check it
 
 
+
+Getting involved !
+==================
+
+autocompletepythongeditplugin's development may be viewed and followed on github::
+
+  http://github.com/nsigustavo/autocompletepythongeditplugin
+
+
+Retrieve the source code using git::
+
+    $ git clone git://github.com/nsigustavo/autocompletepythongeditplugin.git
+
